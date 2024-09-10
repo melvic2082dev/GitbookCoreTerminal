@@ -1,0 +1,15 @@
+# Introduction
+
+The Core Terminal is revolutionizing the marketplace by leveraging blockchain technology to facilitate the exchange of AI infrastructure (network bandwidth, GPU, CPU, storage, computing power) and AI models. As a cutting-edge marketplace on the blockchain, The Core Terminal offers a decentralized platform where users can buy, sell, and trade AI resources and models with unprecedented security and transparency. This innovative platform creates a secure, transparent, and adaptable ecosystem, enabling a wide range of stakeholders—corporations, individuals, and technologists—to engage, contribute, and benefit from the dynamic field of AI.
+
+Central to The Core Terminal's offerings is its unique revenue-sharing mechanism, which operates through the staking of its proprietary token, $token. This incentivizes active stakeholder participation in the ecosystem's revenue generation, fostering engagement and investment. The platform democratizes access to advanced AI resources by providing AI server rentals with high-tier Internet capabilities on a transparent, monthly subscription basis, tailored to meet diverse user needs.
+
+For Internet hardware owners, The Core Terminal transforms idle resources into a steady stream of passive income. By facilitating the lending of these resources, owners are compensated in tokens correlated to usage. Additionally, The Core Terminal caters to sporadic or singular AI processing needs with on-demand AI servers available on an hourly basis, optimizing resource utilization.
+
+Enhancing its suite of services, The Core Terminal offers a comprehensive array of API endpoints designed to seamlessly integrate AI functionalities into various systems, including applications in image and video processing. The staking mechanism extends further to provide rewards in BNB, offering an additional avenue for financial gain.
+
+A robust Layer 2 Data Rollup mobilizes a vast network of volunteer-operated web scraping nodes. These nodes play a crucial role in harvesting, sanitizing, and structuring data for AI training purposes, enriching the platform's data repository. Developers benefit from flexibility through support for ink! (Rust) and EVM Smart Contracts, along with Modular DePIN Functions for essential core functionalities.
+
+With EVM compatibility and cross-chain interoperability, The Core Terminal facilitates seamless exchanges within leading blockchain ecosystems such as Polkadot, Cosmos, Solana, and Binance. The platform bridges with BNB and other blockchains via Wormhole technology, pioneering a decentralized positive-sum economy that rewards machines and DePIN builders contributing to the network.
+
+At the forefront of decentralized AI and Internet resource sharing, The Core Terminal orchestrates an inclusive ecosystem where Internet proprietors, AI enthusiasts, and businesses can thrive. Committed to democratizing AI resource accessibility, The Core Terminal envisions a future where artificial intelligence is not only universally available but also a catalyst for transformative advancements across diverse sectors.
